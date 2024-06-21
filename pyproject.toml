@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "llm-zoomcamp"
+version = "0.1.0"
+description = "LLM Zoomcamp course from DataTalks.club"
+authors = ["Vladislav Garist <vv.garist@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tqdm = "^4.66.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
