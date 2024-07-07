@@ -6,7 +6,7 @@ Course repo: https://github.com/DataTalksClub/llm-zoomcamp
 ```shell
 # activate env with python 3.11
 python3.11 -m venv venv
-venv/bin/activate
+source venv/bin/activate
 
 # install project with poetry
 pip install poetry
