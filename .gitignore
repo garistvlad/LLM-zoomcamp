@@ -7,3 +7,5 @@ venv
 ollama_files
 
 .env
+.lancedb
+.dlt
